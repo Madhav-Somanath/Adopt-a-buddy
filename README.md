@@ -22,4 +22,4 @@ The model building tools used are:
 ## Result:
 
 The following output was received after submission:
-![Result](https://github.com/Madhav-Somanath/Adopt-a-buddy/blob/master/submission.csv)
+![Result](submission.csv)
