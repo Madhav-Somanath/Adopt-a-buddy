@@ -22,3 +22,9 @@ The model building tools used are:
 The following output was received after submission:
 
 ![Result](./submission.png)
+
+## Conclusion:
+
+Better methods can be explored to increase accuracy for the submission, some of which include:
+- CatBoost
+- AdaBoost etc
