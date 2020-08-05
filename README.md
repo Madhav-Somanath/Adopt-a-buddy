@@ -22,4 +22,5 @@ The model building tools used are:
 ## Result:
 
 The following output was received after submission:
+
 ![Result](submission.csv)
